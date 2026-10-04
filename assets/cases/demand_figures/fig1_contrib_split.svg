@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="184" viewBox="0 0 680 184" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',Helvetica,Arial,sans-serif" role="img">
+<rect width="680" height="184" fill="#FFFFFF"/>
+<text x="20" y="30" font-size="15" font-weight="600" fill="#1A1A1A">社零 +4.0% 的贡献分解（教学构造）</text>
+<text x="20" y="52" font-size="11.5" fill="#5B6472">权重 13.5% × 同比 -13.0% = 汽车拉动 -1.755pp</text>
+<line x1="271.7" y1="64" x2="271.7" y2="154" stroke="#1A1A1A" stroke-width="1.2" stroke-dasharray="4,3"/>
+<text x="271.7" y="60" font-size="10.5" fill="#1A1A1A" text-anchor="middle">零</text>
+<text x="16" y="87.7" font-size="12" fill="#1A1A1A">其余全部（+5.755pp）</text>
+<rect x="271.7" y="70" width="225.4" height="26" fill="#D55E00" rx="2"/>
+<text x="505.1" y="87.7" font-size="12" font-weight="600" fill="#D55E00" text-anchor="start">+5.75pp</text>
+<text x="16" y="127.7" font-size="12" fill="#1A1A1A">汽车类（-1.755pp）</text>
+<rect x="202.9" y="110" width="68.7" height="26" fill="#009E73" rx="2"/>
+<text x="194.9" y="127.7" font-size="12" font-weight="600" fill="#009E73" text-anchor="end">-1.75pp</text>
+<text x="16" y="162" font-size="10.5" fill="#5B6472">红=偏离不利方向 · 绿=有利方向 · 虚线=零(+0.00pp)</text>
+</svg>

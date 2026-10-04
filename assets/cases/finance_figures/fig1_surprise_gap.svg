@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="224" viewBox="0 0 680 224" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',Helvetica,Arial,sans-serif" role="img">
+<rect width="680" height="224" fill="#FFFFFF"/>
+<text x="20" y="30" font-size="15" font-weight="600" fill="#1A1A1A">社融 surprise：实际 9.6% vs 共识 9.3%（教学构造）</text>
+<text x="20" y="52" font-size="11.5" fill="#5B6472">surprise = +0.3pp，超预期幅度很小却引出很大市场反应</text>
+<line x1="478.1" y1="64" x2="478.1" y2="194" stroke="#1A1A1A" stroke-width="1.2" stroke-dasharray="4,3"/>
+<text x="478.1" y="60" font-size="10.5" fill="#1A1A1A" text-anchor="middle">共识 9.3 基准</text>
+<text x="16" y="87.7" font-size="12" fill="#1A1A1A">共识 9.3%</text>
+<rect x="478.1" y="70" width="9.5" height="26" fill="#D55E00" rx="2"/>
+<text x="495.6" y="87.7" font-size="12" font-weight="600" fill="#D55E00" text-anchor="start">+9.30pp</text>
+<text x="16" y="127.7" font-size="12" fill="#1A1A1A">实际 9.6%</text>
+<rect x="478.1" y="110" width="19.0" height="26" fill="#D55E00" rx="2"/>
+<text x="505.1" y="127.7" font-size="12" font-weight="600" fill="#D55E00" text-anchor="start">+9.60pp</text>
+<text x="16" y="167.7" font-size="12" fill="#1A1A1A">surprise +0.3pp</text>
+<rect x="202.9" y="150" width="275.1" height="26" fill="#009E73" rx="2"/>
+<text x="194.9" y="167.7" font-size="12" font-weight="600" fill="#009E73" text-anchor="end">+0.30pp</text>
+<text x="16" y="202" font-size="10.5" fill="#5B6472">红=偏离不利方向 · 绿=有利方向 · 虚线=共识 9.3 基准(+9.00pp)</text>
+</svg>
